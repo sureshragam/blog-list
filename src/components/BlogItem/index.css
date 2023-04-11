@@ -1,0 +1,17 @@
+/* Write your CSS code here */
+li {
+  list-style-type: none;
+  padding: 15px;
+}
+.row-1 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.title {
+  color: #12022f;
+}
+.published-date,
+.description {
+  color: #616e7c;
+}
